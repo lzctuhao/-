@@ -1,6 +1,6 @@
-{Problem: 2342		User: lzctuhao
+/*Problem: 2342		User: lzctuhao
 Memory: 1600K		Time: 219MS
-Language: G++		Result: Accepted}
+Language: G++		Result: Accepted*/
 
 #include<iostream>
 #include<stdio.h>
